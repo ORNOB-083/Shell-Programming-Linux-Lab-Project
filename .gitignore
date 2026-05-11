@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Electron build output
+dist/
+build/
+
+# Temporary files
+temp.txt
+
+# VS Code settings (optional)
+.vscode/
+
+# Password storage (IMPORTANT if real passwords)
+passwords.txt
+*.gpg
