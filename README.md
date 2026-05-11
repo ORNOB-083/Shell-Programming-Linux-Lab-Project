@@ -32,5 +32,5 @@ A cross‑platform desktop password manager built with **Electron** and a **Bash
    npm install electron --save-dev
 
 ## Run the GUI
- *inside gui-app folder* 
- npm start
+ *inside gui-app folder(using terminal)* 
+ - npm start
